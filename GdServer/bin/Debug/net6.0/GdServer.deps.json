@@ -1,0 +1,166 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GdServer/1.0.0": {
+        "dependencies": {
+          "GameDesigner": "1.0.0"
+        },
+        "runtime": {
+          "GdServer.dll": {}
+        }
+      },
+      "GameDesigner/1.0.0": {
+        "runtime": {
+          "GameDesigner.dll": {}
+        }
+      },
+      "UnityEngine/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "DotNetty.Transport/0.6.0.0": {
+        "runtime": {
+          "DotNetty.Transport.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "DotNetty.Transport.Libuv/0.6.0.0": {
+        "runtime": {
+          "DotNetty.Transport.Libuv.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "DotNetty.Buffers/0.6.0.0": {
+        "runtime": {
+          "DotNetty.Buffers.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "WebSocket4Net/0.15.2.11": {
+        "runtime": {
+          "WebSocket4Net.dll": {
+            "assemblyVersion": "0.15.2.11",
+            "fileVersion": "0.15.2.11"
+          }
+        }
+      },
+      "SuperSocket.ClientEngine/0.10.0.0": {
+        "runtime": {
+          "SuperSocket.ClientEngine.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      },
+      "DotNetty.Common/0.6.0.0": {
+        "runtime": {
+          "DotNetty.Common.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/1.1.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30217"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/1.1.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30217"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/1.1.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.21115"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GdServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameDesigner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetty.Transport/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetty.Transport.Libuv/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetty.Buffers/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebSocket4Net/0.15.2.11": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperSocket.ClientEngine/0.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetty.Common/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/1.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging/1.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
